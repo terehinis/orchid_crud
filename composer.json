@@ -1,5 +1,5 @@
 {
-    "name": "orchid/crud",
+    "name": "terehinis/crud",
     "description": "Build CRUD apps in fewer lines of code for Laravel Orchid.",
     "keywords": [
         "orchid",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "orchid/platform": "^14.0"
+        "terehinis/orchid_platform": "^14.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8.0",
